@@ -7,7 +7,9 @@
 Первая установка бесплатная, дальше 100 ₽ за приложение, подписки нет. Пока работает только на Windows, версии для Mac нет.
 
 Сайт с программой: [mcpiphone.ru](https://mcpiphone.ru/?utm_source=github_profile)
+
 Бот, где отвечаю на вопросы и помогаю, если что-то не встало: [@mcpiphone_bot](https://t.me/mcpiphone_bot?start=github_profile)
+
 Описание и частые вопросы: [Skeetcher111/mcp-iphone](https://github.com/Skeetcher111/mcp-iphone)
 
 #### Мастерским и магазинам
